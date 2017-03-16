@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="actmqjms:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Spring4MVCJmsActiveMQExample.war">
+      <element id="artifact" artifact-name="actmqjms:war exploded" />
+    </root>
+  </artifact>
+</component>
